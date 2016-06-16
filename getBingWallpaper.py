@@ -5,7 +5,7 @@ Created on Wed Jun 15 21:51:51 2016
 @author: Utkarsh Rastogi
 """
 
-from SetWallpaper import setWallpaper
+from setWallpaper import setWallpaper
 from bs4 import BeautifulSoup
 import requests
 import datetime
